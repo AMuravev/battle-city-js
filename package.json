@@ -1,5 +1,5 @@
 {
-  "name": "battlegis",
+  "name": "battle-city-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "author": "Webro",
+  "author": "AMuravev",
   "license": "MIT",
   "devDependencies": {
     "@types/lodash": "^4.14.159",
