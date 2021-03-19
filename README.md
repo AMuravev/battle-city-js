@@ -1,8 +1,8 @@
-# Setting up Typescript project with Webpack
+# Battle City JS
 
 To develop use:
 ```text
-npm start
+npm run start
 ```
 
 For production build use:
